@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:mythril_block",
+    "testmod:mythril_raw_block",
+    "testmod:mythril_ore",
+    "testmod:mythril_deepslate_ore",
+    "testmod:mythril_nether_ore",
+    "testmod:mythril_endstone_ore"
+  ]
+}

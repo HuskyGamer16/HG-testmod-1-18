@@ -1,0 +1,31 @@
+{
+  "item.testmod.mythril_ingot": "Mitril Rúd",
+  "item.testmod.mythril_nugget": "Mitril Rög",
+  "item.testmod.mythril_raw": "Nyers Mitril Érc",
+  "item.testmod.mythril_staff": "Mitril Nyél",
+  "item.testmod.mythril_staff_head": "Mitril Nyélfej",
+  "item.testmod.dowsing_rod": "Értékkereső",
+  "item.testmod.mythril_helmet": "Mitril Sisak",
+  "item.testmod.mythril_chestplate": "Mitril Mellvért",
+  "item.testmod.mythril_leggings": "Mitril Nadrág",
+  "item.testmod.mythril_boots": "Mitril Csizma",
+  "item.testmod.mythril_axe": "Mitril Fejsze",
+  "item.testmod.mythril_pickaxe": "Mitril Csákány",
+  "item.testmod.mythril_shovel": "Mitril Ásó",
+  "item.testmod.mythril_hoe": "Mithril Kapa",
+  "item.testmod.mythril_sword": "Mitril Kard",
+  "item.testmod.mythril_bow": "Erősített Mitril Íj",
+  "item.testmod.mythril_arrow": "Mitril Nyíl",
+
+  "block.testmod.mythril_lantern": "Mitril Lámpás",
+  "block.testmod.mythril_chain": "Mitril Lánc",
+  "block.testmod.mythril_block": "Mitril Blokk",
+  "block.testmod.mythril_raw_block": "Nyers Mitril Blokk",
+  "block.testmod.mythril_ore": "Mitril Érc",
+  "block.testmod.mythril_nether_ore": "Nether Mitril Érc",
+  "block.testmod.mythril_endstone_ore": "Végkő Mitril Érc",
+  "block.testmod.mythril_deepslate_ore": "Mélypala Mitril Érc",
+
+  "itemGroup.testmod.mythril":"Mitril",
+  "item.testmod.dowsing_rod.no_valueables": "Nem talált értékes blokkot"
+}

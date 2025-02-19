@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_helmet"
+  },
+  "addition": {
+    "item": "testmod:mythril_ingot"
+  },
+  "result": {
+    "item": "testmod:mythril_helmet"
+  }
+}

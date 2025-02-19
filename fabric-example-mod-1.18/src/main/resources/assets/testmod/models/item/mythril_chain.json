@@ -1,0 +1,6 @@
+{
+  "parent": "testmod:item/generated",
+  "textures": {
+    "layer0": "testmod:item/mythril_chain"
+  }
+}

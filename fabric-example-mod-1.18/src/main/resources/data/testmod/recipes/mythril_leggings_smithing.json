@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_leggings"
+  },
+  "addition": {
+    "item": "testmod:mythril_block"
+  },
+  "result": {
+    "item": "testmod:mythril_leggings"
+  }
+}

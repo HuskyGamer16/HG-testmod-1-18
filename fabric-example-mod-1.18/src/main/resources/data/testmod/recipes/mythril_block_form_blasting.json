@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "testmod:mythril_raw_block"
+  },
+  "result": "testmod:mythril_block",
+  "experience": 45,
+  "cookingtime": 900
+}

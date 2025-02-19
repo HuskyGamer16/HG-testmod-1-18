@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "testmod:block/mythril_lantern"
+    },
+    "hanging=true": {
+      "model": "testmod:block/mythril_lantern_hanging"
+    }
+  }
+}

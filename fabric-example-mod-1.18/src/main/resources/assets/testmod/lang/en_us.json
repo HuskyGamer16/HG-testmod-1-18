@@ -1,0 +1,31 @@
+{
+  "item.testmod.mythril_ingot": "Mythril Ingot",
+  "item.testmod.mythril_nugget": "Mythril Nugget",
+  "item.testmod.mythril_raw": "Raw Mythril Ore",
+  "item.testmod.mythril_staff": "Mythril Staff",
+  "item.testmod.mythril_staff_head": "Mythril Staff Head",
+  "item.testmod.dowsing_rod": "Dowsing Rod",
+  "item.testmod.mythril_helmet": "Mythril Helmet",
+  "item.testmod.mythril_chestplate": "Mythril Chestplate",
+  "item.testmod.mythril_leggings": "Mythril Leggings",
+  "item.testmod.mythril_boots": "Mythril Boots",
+  "item.testmod.mythril_axe": "Mythril Axe",
+  "item.testmod.mythril_pickaxe": "Mythril Pickaxe",
+  "item.testmod.mythril_shovel": "Mythril Shovel",
+  "item.testmod.mythril_hoe": "Mithril Hoe",
+  "item.testmod.mythril_sword": "Mythril Sword",
+  "item.testmod.mythril_bow": "Mythril Infused Bow",
+  "item.testmod.mythril_arrow": "Mythril Arrow",
+
+  "block.testmod.mythril_lantern": "Mythril Lantern",
+  "block.testmod.mythril_chain": "Mythril Chain",
+  "block.testmod.mythril_block": "Mythril Block",
+  "block.testmod.mythril_raw_block": "Raw Mythril Block",
+  "block.testmod.mythril_ore": "Mythril Ore",
+  "block.testmod.mythril_nether_ore": "Netherrack Mythril Ore",
+  "block.testmod.mythril_endstone_ore": "Endstone Mythril Ore",
+  "block.testmod.mythril_deepslate_ore": "Deepslate Mythril Ore",
+  
+  "itemGroup.testmod.mythril":"Mythril",
+  "item.testmod.dowsing_rod.no_valueables": "No valuable block found"
+}

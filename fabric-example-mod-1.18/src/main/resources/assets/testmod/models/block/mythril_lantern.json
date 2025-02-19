@@ -1,0 +1,6 @@
+{
+  "parent": "testmod:block/template_lantern",
+  "textures": {
+    "lantern": "testmod:block/mythril_lantern"
+  }
+}

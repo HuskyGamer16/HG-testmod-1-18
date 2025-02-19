@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "testmod",
+  "version": "${version}",
+
+  "name": "Test Mod 1",
+  "description": "This is a test mod! This is for testing and experimenting only!",
+  "authors": [
+    "HuskyGamer16!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.HuskyGamer16.testmod.testmod"
+    ]
+  },
+  "mixins": [
+    "testmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

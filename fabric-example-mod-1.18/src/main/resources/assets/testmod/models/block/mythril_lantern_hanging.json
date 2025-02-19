@@ -1,0 +1,6 @@
+{
+  "parent": "testmod:block/template_hanging_lantern",
+  "textures": {
+    "lantern": "testmod:block/mythril_lantern"
+  }
+}

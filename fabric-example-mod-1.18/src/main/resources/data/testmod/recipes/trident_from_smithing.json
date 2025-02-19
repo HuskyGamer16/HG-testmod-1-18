@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "testmod:mythril_staff"
+  },
+  "addition": {
+    "item": "testmod:mythril_staff_head"
+  },
+  "result": {
+    "item": "minecraft:trident"
+  }
+}

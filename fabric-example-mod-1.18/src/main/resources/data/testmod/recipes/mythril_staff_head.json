@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ii",
+    "IIi",
+    "MI "
+  ],
+  "key": {
+    "M": {
+      "item": "testmod:mythril_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "i": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "testmod:mythril_staff_head"
+  }
+}

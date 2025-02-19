@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ms",
+    "Msm",
+    "mM "
+  ],
+  "key": {
+    "M": {
+      "item": "testmod:mythril_ingot"
+    },
+    "m": {
+      "item": "testmod:mythril_nugget"
+    },
+    "s": {
+      "item": "testmod:mythril_staff"
+    }
+  },
+  "result": {
+    "item": "testmod:dowsing_rod"
+  }
+}
