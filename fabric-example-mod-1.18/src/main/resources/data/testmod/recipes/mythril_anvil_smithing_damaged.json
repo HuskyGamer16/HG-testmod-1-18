@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:damaged_anvil"
+    },
+    "addition": {
+      "item": "testmod:mythril_block"
+    },
+    "result": {
+      "item": "testmod:damaged_mythril_anvil"
+    }
+  }

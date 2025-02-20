@@ -6,6 +6,9 @@
     "testmod:mythril_ore",
     "testmod:mythril_deepslate_ore",
     "testmod:mythril_nether_ore",
-    "testmod:mythril_endstone_ore"
+    "testmod:mythril_endstone_ore",
+    "testmod:mythril_anvil",
+    "testmod:chipped_mythril_anvil",
+    "testmod:damaged_mythril_anvil"
   ]
 }

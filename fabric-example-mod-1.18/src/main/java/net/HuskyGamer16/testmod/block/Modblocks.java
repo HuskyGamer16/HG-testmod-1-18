@@ -31,7 +31,8 @@ public class Modblocks {
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f)),ModItemGroup.MYTHRIL);
     public static final Block MYTHRIL_CHAIN = registerBlock("mythril_chain",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f)), ModItemGroup.MYTHRIL);*/
-
+    public static final Block MYTHRIL_ANVIL = registerBlock("mythril_anvil",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(2f).requiresTool()), ModItemGroup.MYTHRIL);
 
     private static Item registerBlockItem(String name, Block block, ItemGroup group){
         return Registry.register(Registry.ITEM, new Identifier(testmod.MOD_ID, name),

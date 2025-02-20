@@ -18,7 +18,6 @@ public class ModItems {
     public static final Item MYTHRIL_LEGGINGS = registerItem("mythril_leggings", new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxDamage(400)));
     public static final Item MYTHRIL_CHESTPLATE = registerItem("mythril_chestplate", new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxDamage(460)));
     public static final Item MYTHRIL_HELMET = registerItem("mythril_helmet", new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxDamage(315)));
-    public static final Item MYTHRIL_ANVIL = registerItem("mythril_anvil",new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL)));
     
     private static Item registerItem(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier(testmod.MOD_ID, name), item);
