@@ -1,5 +1,6 @@
 package net.HuskyGamer16.testmod.block;
 
+import net.HuskyGamer16.testmod.block.custom.SpeedyBlock;
 import net.HuskyGamer16.testmod.item.ModItemGroup;
 import net.HuskyGamer16.testmod.testmod;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
@@ -27,6 +28,8 @@ public class Modblocks {
             new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.MYTHRIL);
     public static final Block MYTHRIL_ORE_ENDSTONE = registerBlock("mythril_endstone_ore",
             new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.MYTHRIL);
+    public static final Block SPEEDY = registerBlock("speedy_block",
+            new SpeedyBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ItemGroup.MISC);
     /*public static final Block MYTHRIL_LANTERN = registerBlock("mythril_lantern",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f)),ModItemGroup.MYTHRIL);
     public static final Block MYTHRIL_CHAIN = registerBlock("mythril_chain",

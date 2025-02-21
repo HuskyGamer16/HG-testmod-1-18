@@ -17,6 +17,7 @@
   "item.testmod.mythril_bow": "Mythril Infused Bow",
   "item.testmod.mythril_arrow": "Mythril Arrow",
 
+
   "block.testmod.mythril_lantern": "Mythril Lantern",
   "block.testmod.mythril_chain": "Mythril Chain",
   "block.testmod.mythril_block": "Mythril Block",
@@ -25,6 +26,7 @@
   "block.testmod.mythril_nether_ore": "Netherrack Mythril Ore",
   "block.testmod.mythril_endstone_ore": "Endstone Mythril Ore",
   "block.testmod.mythril_deepslate_ore": "Deepslate Mythril Ore",
+  "block.testmod.speedy_block": "Speed Block",
   
   "itemGroup.testmod.mythril":"Mythril",
   "item.testmod.dowsing_rod.no_valueables": "No valuable block found"

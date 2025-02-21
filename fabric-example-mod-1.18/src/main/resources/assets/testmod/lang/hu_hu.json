@@ -25,6 +25,8 @@
   "block.testmod.mythril_nether_ore": "Nether Mitril Érc",
   "block.testmod.mythril_endstone_ore": "Végkő Mitril Érc",
   "block.testmod.mythril_deepslate_ore": "Mélypala Mitril Érc",
+  "block.testmod.speedy_block": "Gyorsító Block",
+
 
   "itemGroup.testmod.mythril":"Mitril",
   "item.testmod.dowsing_rod.no_valueables": "Nem talált értékes blokkot"
