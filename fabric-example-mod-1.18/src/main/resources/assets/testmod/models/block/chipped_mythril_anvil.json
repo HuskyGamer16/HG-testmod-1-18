@@ -1,0 +1,6 @@
+{
+  "parent": "testmod:block/template_anvil",
+  "textures": {
+    "top": "testmod:block/chipped_mythril_anvil_top"
+  }
+}

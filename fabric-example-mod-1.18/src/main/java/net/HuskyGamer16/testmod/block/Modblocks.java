@@ -1,5 +1,6 @@
 package net.HuskyGamer16.testmod.block;
 
+import net.HuskyGamer16.testmod.block.custom.ModAnvilBlock;
 import net.HuskyGamer16.testmod.block.custom.SpeedyBlock;
 import net.HuskyGamer16.testmod.item.ModItemGroup;
 import net.HuskyGamer16.testmod.testmod;
@@ -33,10 +34,14 @@ public class Modblocks {
     /*public static final Block MYTHRIL_LANTERN = registerBlock("mythril_lantern",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f)),ModItemGroup.MYTHRIL);
     public static final Block MYTHRIL_CHAIN = registerBlock("mythril_chain",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(4f)), ModItemGroup.MYTHRIL);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f)), ModItemGroup.MYTHRIL);*/
     public static final Block MYTHRIL_ANVIL = registerBlock("mythril_anvil",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(2f).requiresTool()), ModItemGroup.MYTHRIL);
-*/
+            new ModAnvilBlock(FabricBlockSettings.of(Material.METAL).strength(2f).requiresTool()), ModItemGroup.MYTHRIL);
+    public static final Block CHIPPED_MYTHRIL_ANVIL = registerBlock("chipped_mythril_anvil",
+            new ModAnvilBlock(FabricBlockSettings.of(Material.METAL).strength(2f).requiresTool()), ModItemGroup.MYTHRIL);
+    public static final Block DAMAGED_MYTHRIL_ANVIL = registerBlock("damaged_mythril_anvil",
+            new ModAnvilBlock(FabricBlockSettings.of(Material.METAL).strength(2f).requiresTool()), ModItemGroup.MYTHRIL);
+
     private static Item registerBlockItem(String name, Block block, ItemGroup group){
         return Registry.register(Registry.ITEM, new Identifier(testmod.MOD_ID, name),
                 new BlockItem(block, new FabricItemSettings().group(group)));

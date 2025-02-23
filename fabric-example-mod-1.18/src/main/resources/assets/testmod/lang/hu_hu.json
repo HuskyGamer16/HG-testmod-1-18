@@ -28,6 +28,9 @@
   "block.testmod.mythril_endstone_ore": "Végkő Mitril Érc",
   "block.testmod.mythril_deepslate_ore": "Mélypala Mitril Érc",
   "block.testmod.speedy_block": "Gyorsító Block",
+  "block.testmod.mythril_anvil": "Mitril üllő",
+  "block.testmod.chipped_mythril_anvil": "Kopott Mitril üllő",
+  "block.testmod.damaged_mythril_anvil": "Sérült Mitril üllő",
 
 
   "itemGroup.testmod.mythril":"Mitril",

@@ -1,0 +1,6 @@
+{
+  "parent": "testmod:block/template_anvil",
+  "textures": {
+    "top": "testmod:block/mythril_anvil_top"
+  }
+}

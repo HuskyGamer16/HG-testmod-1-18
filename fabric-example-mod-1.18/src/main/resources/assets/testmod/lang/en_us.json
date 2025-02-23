@@ -29,6 +29,9 @@
   "block.testmod.mythril_endstone_ore": "Endstone Mythril Ore",
   "block.testmod.mythril_deepslate_ore": "Deepslate Mythril Ore",
   "block.testmod.speedy_block": "Speed Block",
+  "block.testmod.mythril_anvil": "Mythril Anvil",
+  "block.testmod.chipped_mythril_anvil": "Chipped Mythril Anvil",
+  "block.testmod.damaged_mythril_anvil": "Damaged Mythril Anvil",
   
   "itemGroup.testmod.mythril":"Mythril",
   "item.testmod.dowsing_rod.no_valueables": "No valuable block found"
