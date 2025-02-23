@@ -4,6 +4,7 @@ import net.HuskyGamer16.testmod.item.custom.DowsingRodItem;
 import net.HuskyGamer16.testmod.testmod;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
@@ -18,7 +19,7 @@ public class ModItems {
     public static final Item MYTHRIL_LEGGINGS = registerItem("mythril_leggings", new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxDamage(400)));
     public static final Item MYTHRIL_CHESTPLATE = registerItem("mythril_chestplate", new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxDamage(460)));
     public static final Item MYTHRIL_HELMET = registerItem("mythril_helmet", new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxDamage(315)));
-    
+    public static final Item SOLID_LAVA = registerItem("solid_lava", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
     private static Item registerItem(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier(testmod.MOD_ID, name), item);
     }

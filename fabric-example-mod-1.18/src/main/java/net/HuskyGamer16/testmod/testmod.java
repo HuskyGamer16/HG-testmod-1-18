@@ -1,5 +1,6 @@
 package net.HuskyGamer16.testmod;
 
+import net.HuskyGamer16.testmod.util.ModRegistries;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -21,5 +22,6 @@ public class testmod implements ModInitializer {
 		// LOGGER.info("Hello Fabric world!");
 		ModItems.registerModItems();
 		Modblocks.registerModBlocks();
+		ModRegistries.registerModStuffs();
 	}
 }
