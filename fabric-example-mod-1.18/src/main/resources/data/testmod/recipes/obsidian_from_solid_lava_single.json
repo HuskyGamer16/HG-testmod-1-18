@@ -1,10 +1,13 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-    {
-      "item": "testmod:solid_lava",
-      "count": 2
-    }, {
+      {
+        "item": "testmod:solid_lava"
+      },
+      {
+        "item": "testmod:solid_lava"
+      },
+      {
       "item":"minecraft:ice"
     }
   ],

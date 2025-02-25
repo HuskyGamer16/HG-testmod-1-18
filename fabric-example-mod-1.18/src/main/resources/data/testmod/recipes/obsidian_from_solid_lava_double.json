@@ -1,12 +1,21 @@
 {
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
-    {
-      "item": "testmod:solid_lava",
-      "count": 4
-    }, {
+      {
+        "item": "testmod:solid_lava"
+      },
+      {
+        "item": "testmod:solid_lava"
+      },
+      {
+        "item": "testmod:solid_lava"
+      },
+      {
+        "item": "testmod:solid_lava"
+      },
+      {
       "item":"minecraft:packed_ice"
-    }
+      }
   ],
     "result": {
       "item": "minecraft:obsidian",
