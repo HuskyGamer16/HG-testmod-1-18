@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "testmod:solid_lava_bucket"
+  },
+  "result": "minecraft:lava_bucket",
+  "experience": 50,
+  "cookingtime": 1600
+}

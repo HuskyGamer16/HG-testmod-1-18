@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "testmod:solid_lava"
+    },{
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "testmod:solid_lava_bucket"
+  }
+}

@@ -20,6 +20,7 @@ public class ModItems {
     public static final Item MYTHRIL_CHESTPLATE = registerItem("mythril_chestplate", new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxDamage(460)));
     public static final Item MYTHRIL_HELMET = registerItem("mythril_helmet", new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxDamage(315)));
     public static final Item SOLID_LAVA = registerItem("solid_lava", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item SOLID_LAVA_BUCKET = registerItem("solid_lava_bucket", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
     public static final Item PEAR = registerItem("pear", new Item(new FabricItemSettings().group(ItemGroup.FOOD).food(ModFoodComponents.PEAR)));
 
 
