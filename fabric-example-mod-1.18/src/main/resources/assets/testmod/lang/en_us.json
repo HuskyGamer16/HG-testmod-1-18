@@ -19,7 +19,7 @@
   "item.testmod.solid_lava": "Solidified Lava",
   "item.testmod.solid_lava_bucket": "Solidified Lava Bucket",
   "item.testmod.pear": "Pear",
-
+  "item.testmod.mythril_infused_oak_sapling": "Mythril Infused Oak Sapling",
 
   "block.testmod.mythril_lantern": "Mythril Lantern",
   "block.testmod.mythril_chain": "Mythril Chain",
@@ -33,7 +33,9 @@
   "block.testmod.mythril_anvil": "Mythril Anvil",
   "block.testmod.chipped_mythril_anvil": "Chipped Mythril Anvil",
   "block.testmod.damaged_mythril_anvil": "Damaged Mythril Anvil",
-  
+  "block.testmod.mythril_infused_oak_log": "Mythril Infused Oak Log",
+  "block.testmod.mythril_infused_oak_leaves": "Mythril Infused Oak Leaves",
+
   "itemGroup.testmod.mythril":"Mythril",
   "item.testmod.dowsing_rod.no_valueables": "No valuable block found"
 }

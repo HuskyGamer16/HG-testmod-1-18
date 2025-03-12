@@ -8,6 +8,7 @@ import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
 import net.minecraft.block.Material;
+import net.minecraft.block.PillarBlock;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
@@ -29,6 +30,10 @@ public class Modblocks {
             new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.MYTHRIL);
     public static final Block MYTHRIL_ORE_ENDSTONE = registerBlock("mythril_endstone_ore",
             new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.MYTHRIL);
+    public static final PillarBlock MYTHRIL_INFUSED_OAK_LOG = (PillarBlock) registerBlock("mythril_infused_oak_log",
+            new PillarBlock(FabricBlockSettings.of(Material.WOOD).strength(4f).requiresTool()), ModItemGroup.MYTHRIL);
+    public static final Block MYTHRIL_INFUSED_OAK_LEAVES = registerBlock("mythril_infused_oak_leaves",
+            new Block(FabricBlockSettings.of(Material.LEAVES).strength(4f).requiresTool()), ModItemGroup.MYTHRIL);
     public static final Block SPEEDY = registerBlock("speedy_block",
             new SpeedyBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ItemGroup.MISC);
     /*public static final Block MYTHRIL_LANTERN = registerBlock("mythril_lantern",

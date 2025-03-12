@@ -19,6 +19,7 @@
   "item.testmod.solid_lava": "Szilárd Láva",
   "item.testmod.solid_lava_bucket": "Szilárd Láva Vödör",
   "item.testmod.pear": "Körte",
+  "item.testmod.mythril_infused_oak_sapling": "Mitril Tölgy Csemete",
 
   "block.testmod.mythril_lantern": "Mitril Lámpás",
   "block.testmod.mythril_chain": "Mitril Lánc",
@@ -29,10 +30,11 @@
   "block.testmod.mythril_endstone_ore": "Végkő Mitril Érc",
   "block.testmod.mythril_deepslate_ore": "Mélypala Mitril Érc",
   "block.testmod.speedy_block": "Gyorsító Block",
-  "block.testmod.mythril_anvil": "Mitril üllő",
-  "block.testmod.chipped_mythril_anvil": "Kopott Mitril üllő",
-  "block.testmod.damaged_mythril_anvil": "Sérült Mitril üllő",
-
+  "block.testmod.mythril_anvil": "Mitril Üllő",
+  "block.testmod.chipped_mythril_anvil": "Kopott Mitril Üllő",
+  "block.testmod.damaged_mythril_anvil": "Sérült Mitril Üllő",
+  "block.testmod.mythril_infused_oak_log": "Mitril Tölgy Fa",
+  "block.testmod.mythril_infused_oak_leaves": "Mitril Tölgy Levelek",
 
   "itemGroup.testmod.mythril":"Mitril",
   "item.testmod.dowsing_rod.no_valueables": "Nem talált értékes blokkot"

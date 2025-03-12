@@ -22,7 +22,7 @@ public class ModItems {
     public static final Item SOLID_LAVA = registerItem("solid_lava", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
     public static final Item SOLID_LAVA_BUCKET = registerItem("solid_lava_bucket", new Item(new FabricItemSettings().group(ItemGroup.MISC)));
     public static final Item PEAR = registerItem("pear", new Item(new FabricItemSettings().group(ItemGroup.FOOD).food(ModFoodComponents.PEAR)));
-
+    public static final Item MYTHRIL_INFUSED_OAK_SAPLING =  registerItem("mythril_infused_oak_sapling", new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL)));
 
 
 

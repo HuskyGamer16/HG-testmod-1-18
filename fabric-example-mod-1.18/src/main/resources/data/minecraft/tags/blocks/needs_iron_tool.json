@@ -9,6 +9,8 @@
     "testmod:mythril_endstone_ore",
     "testmod:mythril_anvil",
     "testmod:chipped_mythril_anvil",
-    "testmod:damaged_mythril_anvil"
+    "testmod:damaged_mythril_anvil",
+    "testmod:mythril_infused_oak_log",
+    "testmod:mythril_infused_oak_leaves"
   ]
 }
